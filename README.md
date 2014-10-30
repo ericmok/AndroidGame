@@ -1,6 +1,9 @@
 AndroidGame1
 ============
 
+### Development has moved to [android-rts-game](https://github.com/ericmok/android-rts-game)
+
+
 Android Game Primer
 
 ### Take a look
